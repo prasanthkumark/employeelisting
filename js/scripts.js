@@ -1,0 +1,4 @@
+// immediatly invoked function
+(function() {
+
+ })();
