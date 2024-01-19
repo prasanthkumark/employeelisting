@@ -4,4 +4,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    text-align: center; 
 }
+
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 2px dotted red;
+    background-color: grey;
+    width: 300px;
+    height: 300px;
+}
+
